@@ -39,4 +39,21 @@
 .profile_image {
   width: 500px;
   height: auto;
+  
+  
+}
+
+.about{
+  position: relative;
+  left: -3%;
+  font-size: 70px;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.about about{
+  color: aliceblue;
+}
+.about b{
+  color: #0f62fe;
 }
